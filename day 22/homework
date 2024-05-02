@@ -1,0 +1,31 @@
+for i in range(101):
+    print(i)
+
+for i in range(20, 41):
+    print(i)
+
+for i in range(75, 101):
+    if i % 2 != 0:
+        print(i)
+
+გვარი = "ავქოფაშვილი"
+for ასო in გვარი:
+    print(ასო)
+
+ა
+ვ
+ქ
+ო
+ფ
+ა
+შ
+ვ
+ი
+ლ
+ი 
+
+
+for i in range(10):
+    print("მაგილი", i+1)
+
+
