@@ -1,0 +1,3 @@
+favorite_cars = ["bmw", "dodge", "mercedes", "lamborghini", "fiat", "toyota", "chevrolet", "ford"]
+
+print("My favorite cars are:", favorite_cars[3])

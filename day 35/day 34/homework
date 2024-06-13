@@ -1,0 +1,8 @@
+# შექმენით სია
+favorite_cars = ["bmw", "dodge", "mercedes", "lamborghini"]
+
+# შევცვალოთ ელემენტი "lamborghini" ელემენტით "lamborghini" ელემენტი "ferrari"-თ
+favorite_cars[3] = "ferrari"
+
+# დავბეჭდოთ შეცვლილი სია
+print(favorite_cars)
