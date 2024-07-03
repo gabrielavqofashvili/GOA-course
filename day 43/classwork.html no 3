@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ნასწავლი საიტი</title>
+</head>
+<body>
+    <header>
+        <h1>ნასწავლი საიტი</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#">მთავარი</a></li>
+            <li><a href="#">გვერდები</a></li>
+            <li><a href="#">კონტაქტი</a></li>
+        </ul>
+    </nav>
+    
+    <section>
+        <h2>პირველი სექცია</h2>
+        
+        <article>
+            <h3>პირველი სტატია</h3>
+            <p>ეს არის პირველი სტატიის ტექსტი.</p>
+        </article>
+        
+        <article>
+            <h3>მეორე სტატია</h3>
+            <p>ეს არის მეორე სტატიის ტექსტი.</p>
+        </article>
+    </section>
+    
+    <section>
+        <h2>მეორე სექცია</h2>
+        
+        <article>
+            <h3>მესამე სტატია</h3>
+            <p>ეს არის მესამე სტატიის ტექსტი.</p>
+        </article>
+        
+        <article>
+            <h3>მეოთხე სტატია</h3>
+            <p>ეს არის მეოთხე სტატიის ტექსტი.</p>
+        </article>
+    </section>
+    
+    <footer>
+        <p>© 2024 ნასწავლი საიტი. ყველა უფლება დაცულია.</p>
+    </footer>
+</body>
+</html>
